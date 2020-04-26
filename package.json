@@ -1,0 +1,18 @@
+{
+  "name": "formexample2backend",
+  "version": "1.0.0",
+  "description": "Backend Tarea 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls",
+    "start": "nodemon src/index.js"
+  },
+  "author": "Erinson Borrayo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mysql": "^2.18.1"
+  }
+}
